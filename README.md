@@ -12,6 +12,7 @@ In this sample file, you can do
 
 
 Under the hood - Script trigger beyond device
+
 I use this technique here. This is just a fmp-url script.
 If the code of web viewer is like this,
 “data:text/html, call fmp-url <script>location.href=’fmp://$/MYFILE?script=trigger&param=“ + TRIGGER::FIELD + ”’</script>” 
